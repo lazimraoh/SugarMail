@@ -1,0 +1,8 @@
+[Activity]
+name = SugarMail
+bundle_id = org.laptop.HelloWorldActivity
+class = SugarMail.SugarMail
+icon = activity-sugarmail
+activity_version = 1
+host_version = 1
+show_launcher = yes
